@@ -22,6 +22,12 @@ yum install -y openssl-devel
 yum install -y zlib-devel
 ```
 
+* zip
+
+```
+yum install -y zip
+```
+
 * _ctypes
 
 ```
